@@ -1,36 +1,71 @@
-# R-practice-codes-1st-sem
-📘 A complete collection of my 1st Semester R programming practice codes, covering fundamentals, data handling, visualization, and basic statistics. This repository documents my learning journey in R for Data Science and Analytics.
+**# 📊 R Programming Practice – 1st Semester**
 
-**⭐ Important Highlight**
+ A structured collection of R programming exercises and practice codes completed during my 1st semester.
+This repository focuses on data handling, statistical analysis, visualization, and basic machine learning concepts using R.
 
-🚀 All the topics covered in this repository are systematically combined and implemented inside only 3 main R files.
+**📂 Repository Structure**
+🔹 Basic Concepts
 
-📂 This makes the repository:
+   -Variables and Data Types
 
-  -Easy to understand
+   -Vectors
 
-  -Well-structured
+   -Lists
 
-  -Clean and beginner-friendly
+   -Matrices
 
-  -Simple to revise before exams
+   -Data Frames
 
-**📚 Topics Covered**
+   -Handling Missing Values
 
-✅ Basics of R Programming
+   -CSV File Handling
 
-✅ Variables & Data Types
+🔹 Data Visualization
 
-✅ Conditional Statements
+  -Introduction to ggplot2
 
-✅ Loops & Functions
+  -Correlation Matrix Visualization
 
-✅ Vectors, Lists & Data Frames
+🔹 Statistical Analysis
 
-✅ File Handling
+   -Mean, Median, Mode Calculation
 
-✅ Data Visualization (Plots & Graphs)
+   -Frequency Distribution Tables
 
-✅ Basic Statistical Operations
+   -Correlation Matrix Generation
 
+🔹 Machine Learning (Basics)
 
+   -Training a Simple Linear Regression Model
+
+🔹 Data Handling
+
+   -JSON Data Handling
+
+   -Working with Structured Datasets
+
+**🎯 Objectives**
+
+-Build strong fundamentals in R programming
+
+-Understand statistical computations
+
+-Practice data visualization techniques
+
+-Learn basic machine learning concepts
+
+-Strengthen data analysis skills
+
+**🛠 Technologies Used**
+
+-Language: R
+
+-Libraries: ggplot2, stats
+
+-IDE: RStudio / VS Code
+
+**👨‍💻 Author**
+
+**Subham Meher**
+1st Year Engineering Student
+Passionate about Programming & Data Analysis
